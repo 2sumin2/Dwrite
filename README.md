@@ -1,6 +1,15 @@
 # Diary - Dwrite
 ### python으로 다이어리 만들기
 
+<div style="display:flex flex-direction:column">
+<img src="https://user-images.githubusercontent.com/75177553/161414464-6975a69b-bda3-4068-8a10-a0f34bbcff75.png"/>
+<img src="https://user-images.githubusercontent.com/75177553/161414423-0d563830-48eb-4697-aca4-17d129af721d.png"/></div>
+
+![image](https://user-images.githubusercontent.com/75177553/161414581-d4be22c6-40a6-4642-a1ad-2411ed545650.png)
+
+![image](https://user-images.githubusercontent.com/75177553/161414511-7fa584a9-3d8a-4124-a10b-60ea6f2fda47.png)
+![image](https://user-images.githubusercontent.com/75177553/161414541-b6cd59f3-bc7d-4962-9439-80657a13038e.png)
+        
 <ol>
         <h4><li>Login</li></h4>
         <ul>
@@ -35,3 +44,4 @@
                 <li>날짜 클릭 후 ‘select’ 버튼 >> 그 날짜의 일기 페이지로 이동</li>
         </ul>
 </ol>
+ 
